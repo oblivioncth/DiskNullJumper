@@ -23,5 +23,8 @@ In addition to standard usage via the on-screen prompts, the following commands 
 "quit/exit" - Exit the program
 ESC (Key) - Halt an in-progress search. The program will let you know what sector the search stopped at.
 
+## Releases
+The provided release was compiled using MSVC++ in Visual Studio 2019 and the Windows 10 SDK
+
 ## License
 I distribute this software and source under the MIT licence (see licence file). There is no guaranteed support for this software but feel free to improve upon it, use it for research, post any issues you find, ask a question, or use it however you see fit.
